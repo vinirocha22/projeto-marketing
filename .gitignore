@@ -1,0 +1,14 @@
+# Ignorar a pasta do ambiente virtual
+venv/
+
+# Ignorar arquivos comuns de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Ignorar arquivos de IDE
+.vscode/
+.idea/
